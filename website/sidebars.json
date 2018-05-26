@@ -1,0 +1,9 @@
+{
+  "docs": {
+    "Semaine 1":  ["week1","week1day1", "week1day2", "week1day3"],
+    "Semaine 2":  ["week2","week2day1", "week2day2", "week2day3"],
+    "Semaine 3":  ["week3","week3day1", "week3day2", "week3day3"],
+    "Semaine 4":  ["week4","week4day1", "week4day2", "week4day3"],
+    "Semaine 5":  ["week5","week5day1", "week5day2", "week5day3"]
+  }
+}
