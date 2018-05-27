@@ -1,4 +1,3 @@
 [build]
   base    = "website/"
   publish = "website/build/curriculum/"
-  command = "yarn install && yarn run build"
