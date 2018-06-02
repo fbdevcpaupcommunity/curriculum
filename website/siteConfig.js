@@ -14,8 +14,8 @@ const users = [
     caption: 'User1',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/docusaurus.svg'.
-    image: '/img/docusaurus.svg',
-    infoLink: 'https://www.facebook.com',
+    image: '/img/annkode.png',
+    infoLink: 'https://www.facebook.com/annkodee',
     pinned: true,
   },
 ];
@@ -48,14 +48,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  headerIcon: 'img/annkode.png',
+  footerIcon: 'img/annkode.png',
+  favicon: 'img/annkode.png',
 
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B',
+    primaryColor: '#2babe2',
+    secondaryColor: '#5180ba',
   },
 
   /* custom fonts for website */
@@ -74,7 +74,7 @@ const siteConfig = {
   copyright:
     'Copyright © ' +
     new Date().getFullYear() +
-    ' Your Name or Your Company Name',
+    ' iKOD',
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
@@ -88,8 +88,8 @@ const siteConfig = {
   onPageNav: 'separate',
 
   /* Open Graph and Twitter card images */
-  ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
+  ogImage: 'img/annkode.png',
+  twitterImage: 'img/annkode.png',
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

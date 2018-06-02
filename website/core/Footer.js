@@ -33,7 +33,7 @@ class Footer extends React.Component {
               />
             )}
           </a>
-          <div>
+          {/* <div>
             <h5>Docs</h5>
             <a href={this.docUrl('doc1.html', this.props.language)}>
               Getting Started (or other categories)
@@ -44,7 +44,7 @@ class Footer extends React.Component {
             <a href={this.docUrl('doc3.html', this.props.language)}>
               API Reference (or other categories)
             </a>
-          </div>
+          </div> */}
           <div>
             <h5>Community</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
@@ -58,16 +58,16 @@ class Footer extends React.Component {
             </a>
             <a href="https://discordapp.com/">Project Chat</a>
             <a
-              href="https://twitter.com/"
+              href="https://facebook.com/annkodee"
               target="_blank"
               rel="noreferrer noopener">
-              Twitter
+              Facebook
             </a>
           </div>
           <div>
             <h5>More</h5>
             <a href={this.props.config.baseUrl + 'blog'}>Blog</a>
-            <a href="https://github.com/">GitHub</a>
+            <a href="https://github.com/fbdevcpaupcommunity/curriculum">GitHub</a>
             <a
               className="github-button"
               href={this.props.config.repoUrl}
@@ -87,7 +87,7 @@ class Footer extends React.Component {
           rel="noreferrer noopener"
           className="fbOpenSource">
           <img
-            src={this.props.config.baseUrl + 'img/oss_logo.png'}
+            src={this.props.config.baseUrl + 'img/annkode.png'}
             alt="Facebook Open Source"
             width="170"
             height="45"
