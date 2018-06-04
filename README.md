@@ -1,8 +1,8 @@
 # Ann Kode
 
 
-Ann Kode est une initiative débutée par {} dans l'objectif de réaliser durant les vacances d'été 2018 
-un bootcamp sur le développement web et la programmation au profit de jeunes de la ville des Cayes.
+Ann Kode est une initiative débutée par iKod dans l'objectif de réaliser durant les vacances d'été 2018 
+un bootcamp sur le développement web et la programmation au profit des jeunes de la ville des Cayes.
 
 ### Comment va se dérouler ce bootcamp.
 

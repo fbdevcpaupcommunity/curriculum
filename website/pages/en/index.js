@@ -76,7 +76,7 @@ class HomeSplash extends React.Component {
     let language = this.props.language || '';
     return (
       <SplashContainer>
-        <Logo img_src={imgUrl('docusaurus.svg')} />
+        <Logo img_src={imgUrl('annkode.png')} />
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
@@ -104,13 +104,13 @@ const Features = props => (
     {[
       {
         content: 'Dans ce cours les apprenannts seront introduits aux divers outils utilisés par les développeurs etc.',
-        image: imgUrl('docusaurus.svg'),
+        image: imgUrl('annkode.png'),
         imageAlign: 'top',
         title: 'Les outils du développeur',
       },
       {
         content: 'Développement web',
-        image: imgUrl('docusaurus.svg'),
+        image: imgUrl('annkode.png'),
         imageAlign: 'top',
         title: 'HTML & CSS & JavaScript',
       },
@@ -148,7 +148,7 @@ const TryOut = props => (
     {[
       {
         content: 'Talk about trying this out',
-        image: imgUrl('docusaurus.svg'),
+        image: imgUrl('annkode.png'),
         imageAlign: 'left',
         title: 'Try it Out',
       },
@@ -160,8 +160,16 @@ const Description = props => (
   <Block background="dark">
     {[
       {
-        content: 'CE SITE EST EN COURS DE CONSTRUCTION',
-        image: imgUrl('docusaurus.svg'),
+        content: 'ANN KODE est une initiative prise par des universitaires'
+                  + ' afin de promouvoir la culture de la programation chez les '
+                  + ' jeunes en Haïti. Pour ce faire ANN KODE est un camp de '
+                  + ' programmation qui apprend le codage aux jeunes.'
+                  + ' Ici présent sur ce site nous avons notre curriculum'
+                  + ' d\'apprentissage qui pourra etre utilisé	 par n\'importe '
+                  + ' quel groupe desireux d\'entreprendre le même genre d\'activité.'
+                  + ' Puisque ANN KODE est avant tout une communauté	 qui se soucie'
+                  + ' de la propagation des connaissances en programmation...',
+        image: imgUrl('annkode.png'),
         imageAlign: 'right',
         title: 'Description',
       },
