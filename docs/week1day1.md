@@ -91,6 +91,27 @@ Le terme de périphérique désigne tous les éléments annexes à ton ordinateu
 ## Presentation de l'internet et du navigateur
 
 ![Navigateur populaire](http://i66.tinypic.com/30hpr93.jpg)
+### Navigateur
+
+Un navigateur web (browser en anglais) est un logiciel conçu pour consulter et afficher le World Wide Web ou du moins les contenus que l'on retrouve sur internet. Techniquement, c'est au minimum un client HTTP(HyperText Transfer Protocol).
+
+Il existe de nombreux navigateurs web, pour toutes sortes de matériels (ordinateur personnel, tablette tactile, téléphones mobiles, etc.) et pour différents systèmes d'exploitation (GNU/Linux, Windows, Mac OS, iOS et Android). Dans les années 2010, les plus utilisés sont Google Chrome, Mozilla Firefox, Internet Explorer/Edge, Safari, Opera.
+
+### Internet
+
+Internet est le réseau informatique mondial accessible au public. C'est un réseau de réseaux, à commutation de paquets, sans centre névralgique, composé de millions de réseaux aussi bien publics que privés, universitaires, commerciaux et gouvernementaux, eux-mêmes regroupés en réseaux autonomes (il y en avait 47 000 en 2014). L'information est transmise par Internet grâce à un ensemble standardisé de protocoles de transfert de données, qui permet des applications variées comme le courrier électronique, la messagerie instantanée, le pair-à-pair et le World Wide Web. Internet ayant été popularisé par l'apparition du World Wide Web, les deux sont parfois confondus par le public non averti.
+
+Un internaute est une personne qui utilise un accès à internet. Cet accès peut être obtenu grâce à un fournisseur d'accès via divers moyens de communication électronique : soit filaire (réseau téléphonique commuté (bas débit), ADSL, fibre optique jusqu'au domicile), soit sans fil (WiMAX, par satellite, 3G+, 4G, ou 5G).
+
+Un nombre croissant d'objets peuvent se connecter à Internet, cette évolution est appelée l'Internet des objets.
+
+## Editeur de texte
+
+Un éditeur de texte est un logiciel destiné à la création et l'édition de fichiers textes. Chaque système d'exploitation fournit un éditeur, tant son usage est courant, voire incontournable pour certaines tâches informatiques de base comme l'administration de système et le développement de logiciels.
+
+### Presentation de Visual Studio
+
+
 
 #### Contributeurs à cette leçon.
 
@@ -104,3 +125,5 @@ Ex:
 > https://fr.wikipedia.org/wiki/Bloc_d%27alimentation
 > https://www.commentcamarche.com/contents/729-boitier-d-ordinateur
 > https://fr.wikipedia.org/wiki/Lecteur_de_disque_optique
+> https://fr.wikipedia.org/wiki/Internet
+> https://fr.wikipedia.org/wiki/Navigateur_web
