@@ -44,3 +44,5 @@ sur github. On pourra donc s'en inspirer.
 
 
 Consulter les README se trouvant à l'intérieur des folders docs et website pour plus d'informations concernant ces sections.
+
+Lien pour consulter le site: curricula.netlify.com
